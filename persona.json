@@ -1,0 +1,17 @@
+[
+  {
+    "clave": "valor",
+    "nombre": "Octavio",
+    "edad": 40,
+    "estatura": 1.75,
+    "direccion": "Peru"
+  },
+
+  {
+    "clave": "valor",
+    "nombre": "Laura",
+    "edad": 20,
+    "estatura": 1.6,
+    "direccion": "Chile"
+  }
+]
